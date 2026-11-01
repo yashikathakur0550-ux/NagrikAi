@@ -1,0 +1,10 @@
+{
+  "name": "Remix Remix NagrikAI - AI Citizen Assistance",
+  "description": "Comprehensive AI citizen assistance platform for Indian public services, civic complaints, schemes discovery, live GPS tracking, and emergency response.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
